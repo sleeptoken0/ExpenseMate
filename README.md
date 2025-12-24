@@ -47,7 +47,7 @@ The app allows users to track **income and expenses**, visualize them in **month
 
 The screenshots included in this repository highlight key UX and technical aspects of the app:
 
-<img src="Products/Simulator Screenshot - iPhone 17 Pro - 2025-12-24 at 22.58.50.png.png" width="300">
+<img src="Products/Simulator Screenshot - iPhone 17 Pro - 2025-12-24 at 22.58.50.png" width="300">
 
 ### 1️⃣ Home / Calendar View
 - Monthly calendar grid
