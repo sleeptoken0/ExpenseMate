@@ -1,0 +1,55 @@
+
+# Xcode
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcuserdata
+*.xcuserstate
+*.xcodeproj/xcuserdata/
+
+# Swift Package Manager
+/.build
+/Package.resolved
+
+# macOS
+.DS_Store
+
+# SwiftData / Persistence
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Xcode generated
+*.pbxuser
+*.perspectivev3
+xcdebugger/
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# App-specific
+*.app
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Cabal
+cabal-dev/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Xcode server
+integration/
+
+# Temporary
+*.tmp
+*.temp
