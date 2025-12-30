@@ -50,3 +50,5 @@ final class MiniChartsViewModel: ObservableObject {
         .sorted { $0.total > $1.total }
     }
 }
+
+
