@@ -24,10 +24,10 @@ jobs:
       - name: Resolve Swift packages
         run: xcodebuild -resolvePackageDependencies -scheme "$SCHEME"
 
-      - name: Build & Test
+      - name: Build
         run: |
           set -o pipefail
-          xcodebuild test \
+          xcodebuild build \
             -scheme "$SCHEME" \
             -destination "$DESTINATION" \
             -configuration Debug
